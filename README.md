@@ -6,15 +6,12 @@ I’m an AI / ML Engineer working with Python, Machine Learning, Deep Learning, 
 
 🧠 What I Build
 🔍 RAG Systems
-
 Built a YouTube Intelligence Agent using LangChain + ChromaDB for grounded Q&A over video transcripts, significantly reducing hallucinations.
 
 🔗 Multi-API Orchestration
-
 Developed Morning Buddy, an AI-driven daily planner that orchestrates Weather, News, and Events APIs to generate structured Morning → Afternoon → Evening itineraries.
 
 🖼️ Multimodal Pipelines
-
 Created storytelling systems using Gemini Flash that combine images + text into coherent narratives, with real-time audio narration.
 
 🛠 What I Bring
@@ -34,7 +31,9 @@ Deployed AI apps using Docker and AWS (EC2, Lambda), including Streamlit Cloud
 🧪 Tech Stack
 
 GenAI & LLMs: LangChain, LangGraph, RAG, Google Gemini API, OpenAI API, HuggingFace
+
 ML & Data: NLP, PyTorch, Scikit-learn, Pandas, NumPy
+
 Backend & Cloud: Python, FastAPI, Docker, AWS (EC2, Lambda), SQL, Git
 
 📈 Professional Impact
