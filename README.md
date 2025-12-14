@@ -16,13 +16,13 @@ Created storytelling systems using Gemini Flash that combine images + text into 
 
 🛠 What I Bring
 
-🤖 Generative AI & RAG
+🤖 Generative AI & RAG :
 Hands-on experience building RAG pipelines and LLM-orchestrated workflows using LangChain, LangGraph, Gemini, OpenAI, and HuggingFace
 
-⚙️ Backend & Automation
+⚙️ Backend & Automation :
 Designed robust multi-API pipelines and backend workflows using Python & FastAPI
 
-🗄️ Databases
+🗄️ Databases :
 Worked with PostgreSQL, MySQL, MongoDB, and Vector DBs (ChromaDB) for semantic search
 
 ☁️ Cloud & Deployment
