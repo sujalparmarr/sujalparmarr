@@ -45,4 +45,4 @@ During internships at TTK Services and AdOpsGuy:
 
 📊 Processed 50+ datasets weekly with consistent accuracy
 
-🧩 Designed prompt strategies that produced structured, analytical outputs instead of generic LLM responses
+🧩 Designed prompt strategies that produced structured, analytical outputs instead of generic LLM responses 
