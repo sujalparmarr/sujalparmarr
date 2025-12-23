@@ -5,7 +5,7 @@ I build AI applications that solve real problems using clean engineering and mod
 I’m an AI / ML Engineer working with Python, Machine Learning, Deep Learning, and Generative AI, focused on turning raw data into reliable, production-ready systems.
 
 🧠 What I Build
-
+ 
 🔍 RAG Systems
 Built a YouTube Intelligence Agent using LangChain + ChromaDB for grounded Q&A over video transcripts, significantly reducing hallucinations.
 
