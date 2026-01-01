@@ -43,6 +43,6 @@ During internships at TTK Services and AdOpsGuy:
 
 📉 Reduced manual research effort by ~40% using Python automation and AI tools
 
-📊 Processed 50+ datasets weekly with consistent accuracy
+📊 Processed 50+ datasets weekly with consistent accuracy 
 
 🧩 Designed prompt strategies that produced structured, analytical outputs instead of generic LLM responses 
