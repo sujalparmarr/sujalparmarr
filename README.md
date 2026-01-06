@@ -1,7 +1,7 @@
 👋 Hi, I’m Sujal
 
 I build AI applications that solve real problems using clean engineering and modern LLMs.
-
+ 
 I’m an AI / ML Engineer working with Python, Machine Learning, Deep Learning, and Generative AI, focused on turning raw data into reliable, production-ready systems.
 
 🧠 What I Build 
